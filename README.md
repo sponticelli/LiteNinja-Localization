@@ -6,7 +6,7 @@ This library provides a localization service for Unity3D. It includes several cl
 
 This library depends on the following packages:
 - TextMeshPro
-  [ LiteNinja Injection](https://github.com/sponticelli/LiteNinja-Injection.git)
+- [LiteNinja Injection](https://github.com/sponticelli/LiteNinja-Injection.git)
 
 ## Classes
 
